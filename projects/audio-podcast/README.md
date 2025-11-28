@@ -6,9 +6,9 @@ A project aimed at generating a podcast using AI tools through more elaborate pr
 
 Use a prompt conveyor belt to generate each step of the creative process.
 
-💻 Technologies used in the project
-ChatGPT
-Text-To-Speech
+💻 Technologies used in the project  
+ChatGPT  
+Text-To-Speech  
 Capcut
 
 ✨ How was it done?
