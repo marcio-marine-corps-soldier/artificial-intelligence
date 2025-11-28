@@ -14,7 +14,7 @@ Use a prompt conveyor belt to generate each step of the creative process.
 
 - Capcut
 
-✨ How was it done?
+✨ How was it done:
 
 - Script generated via chatgpt  
 
