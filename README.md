@@ -1,2 +1,2 @@
-# artificial-intelligence
+# Artificial Intelligence
 Articles, projects, and ebooks about artificial intelligence.
